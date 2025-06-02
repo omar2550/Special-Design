@@ -740,8 +740,8 @@ header {
 /* start contact-us */
 .contact-us {
   padding: 80px 0;
-  background-image: url("../images/contact.jpg");
-  background-size: cover;
+  /*background-image: url("../images/contact.jpg");
+  background-size: cover;*/
   position: relative;
   background-color: #eee;
   .container {
