@@ -743,7 +743,7 @@ header {
   /*background-image: url("../images/contact.jpg");
   background-size: cover;*/
   position: relative;
-  background-color: red;
+  background-color: #eee;
   .container {
     position: relative;
     z-index: 1;
